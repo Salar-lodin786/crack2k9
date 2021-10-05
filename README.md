@@ -20,25 +20,25 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <a href="https://github.com/Azim-Vau/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Azim-vau?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Azim-Vau/termux-style/stargazers/">
-  <a href="https://github.com/Azim-vau/carck2k9">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-vau/carck2k9.svg"/>
+  <a href="https://github.com/Azim-vau/crack2k9">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-vau/crack2k9.svg"/>
   </a>
-  <a href="https://github.com/Azim-vau/carck2k9">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-vau/carck2k9.svg"/>
+  <a href="https://github.com/Azim-vau/crack2k9">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-vau/crack2k9.svg"/>
   </a>
-  <a href="https://github.com/Azim-vau/carck2k9">
-    <img alt="Search" src="https://img.shields.io/github/search/Azim-vau/Cracker/carck2k9.svg"/>
+  <a href="https://github.com/Azim-vau/crack2k9">
+    <img alt="Search" src="https://img.shields.io/github/search/Azim-vau/Cracker/crack2k9.svg"/>
   </a>
-  <a href="https://github.com/Azim-vau/carck2k9">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Azim-vau/carck2k9.svg"/>
+  <a href="https://github.com/Azim-vau/crack2k9">
+    <img alt="Starts" src="https://img.shields.io/github/stars/Azim-vau/crack2k9.svg"/>
   </a>
-<a href="https://github.com/Azim-vau/carck2k9">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-vau/carck2k9.svg"/>
+<a href="https://github.com/Azim-vau/crack2k9">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-vau/crack2k9.svg"/>
   </a>
 
-<a href="https://github.com/Azim-vau/carck2k9">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/carck2k9.svg"/> <a href="https://github.com/Azim-vau/carck2k9">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/carck2k9.svg"/>
+<a href="https://github.com/Azim-vau/crack2k9">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/crack2k9.svg"/> <a href="https://github.com/Azim-vau/crack2k9">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/crack2k9.svg"/>
   </a>
 </div>
 
@@ -51,18 +51,18 @@ $ apt install python2
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
-$ git clone https://github.com/Azim-vau/carck2k9.git
+$ git clone https://github.com/Azim-vau/crack2k9.git
 ```
 #### Run script
 ```python
-$ cd carck2k9
+$ cd crack2k9
 $ python2 2k9.py
 ```
 
 #### [~] Single Command
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/carck2k9 ; cd carck2k9 ; python2 2k9.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/crack2k9 ; cd crack2k9 ; python2 2k9.py
 ```
 </br>
 #### MY SOCIAL MEDIA
